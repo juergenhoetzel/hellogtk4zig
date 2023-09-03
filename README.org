@@ -1,4 +1,4 @@
-#+title: GTK4: Building user interfaces in ZIG
+#+title: GTK4: Building user interfaces in Zig
 
 Features:
 - Usage of =@embedFile= to embed the UI definition in the executable (No Resource directory needed).
